@@ -25,7 +25,7 @@
   opacity: 1;
   width: 335px;
   height: 582px;
-  max-height: 100vh;
+  max-height: 95vh;
   overflow-y: scroll;
 }
 .modal-order::-webkit-scrollbar {
